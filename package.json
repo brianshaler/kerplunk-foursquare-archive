@@ -48,5 +48,6 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/brianshaler/kerplunk-foursquare-archive.git"
-  }
+  },
+  "license": "MIT"
 }
