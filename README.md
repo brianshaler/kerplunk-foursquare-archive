@@ -1,6 +1,6 @@
 # kerplunk-foursquare-archive
 
-[Kerplunk](https://github.com/brianshaler/kerplunk) plugin. 
+[Kerplunk](https://github.com/brianshaler/kerplunk) plugin. Use the Foursquare plugin to crawl your entire checkin history
 
 [![Build Status](https://travis-ci.org/brianshaler/kerplunk-foursquare-archive.svg)](https://travis-ci.org/brianshaler/kerplunk-foursquare-archive)
 [![npm version](https://img.shields.io/npm/v/kerplunk-foursquare-archive.svg)](https://www.npmjs.com/package/kerplunk-foursquare-archive)
