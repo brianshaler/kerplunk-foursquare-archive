@@ -2,7 +2,7 @@
   "name": "kerplunk-foursquare-archive",
   "displayName": "Foursquare Archive",
   "description": "Use the Foursquare plugin to crawl your entire checkin history",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "kerplunk": {
     "dependencies": [
       "kerplunk-foursquare"
